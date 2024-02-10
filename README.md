@@ -15,7 +15,7 @@ Before you begin, ensure you have an active Azure subscription. If you do not ha
 
 Click the button below to deploy the Service Bus namespace and queue to your Azure subscription:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Ftstant0n%2Fsbns-load-test%2Fblob%2Fdev%2Ftstanton%2Fclick-to-deploy%2Fdeploy-servicebus.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftstant0n%2Fsbns-load-test%2Fdev%2Ftstanton%2Fclick-to-deploy%2Fdeploy-servicebus.json)
 
 ## Deployment Steps
 
